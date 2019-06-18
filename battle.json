@@ -1,0 +1,86 @@
+[
+ {
+  "UserID": "DefaultID",
+  "Username": "Default",
+  "RequesterName": "Default",
+  "RequesterID": "DefaultID",
+  "RequestedName": "",
+  "RequestedID": "",
+  "RequestedForBattle": false,
+  "InABattle": false,
+  "RequestedSomeone": false,
+  "RequestedTime": "2019-06-17T16:01:56.5110976+08:00"
+ },
+ {
+  "UserID": "498523735603544096",
+  "Username": "Sano Tsugi",
+  "RequesterName": "",
+  "RequesterID": "",
+  "RequestedName": "",
+  "RequestedID": "",
+  "RequestedForBattle": false,
+  "InABattle": false,
+  "RequestedSomeone": false,
+  "RequestedTime": "2019-06-17T17:05:51.4438788+08:00"
+ },
+ {
+  "UserID": "147776519085752320",
+  "Username": "Marat",
+  "RequesterName": "",
+  "RequesterID": "",
+  "RequestedName": "",
+  "RequestedID": "",
+  "RequestedForBattle": false,
+  "InABattle": false,
+  "RequestedSomeone": false,
+  "RequestedTime": "2019-06-17T18:41:16.2019869+08:00"
+ },
+ {
+  "UserID": "517077457841684480",
+  "Username": "Mosalsal",
+  "RequesterName": "",
+  "RequesterID": "",
+  "RequestedName": "",
+  "RequestedID": "",
+  "RequestedForBattle": false,
+  "InABattle": false,
+  "RequestedSomeone": false,
+  "RequestedTime": "2019-06-17T16:11:33.2213626+08:00"
+ },
+ {
+  "UserID": "333178324153270272",
+  "Username": "king of storm - dessu",
+  "RequesterName": "",
+  "RequesterID": "",
+  "RequestedName": "",
+  "RequestedID": "",
+  "RequestedForBattle": false,
+  "InABattle": false,
+  "RequestedSomeone": false,
+  "RequestedTime": "2019-06-17T19:17:17.5777425+08:00"
+ },
+ {
+  "UserID": "431459507420397568",
+  "Username": "DeViiL",
+  "RequesterName": "",
+  "RequesterID": "",
+  "RequestedName": "",
+  "RequestedID": "",
+  "RequestedForBattle": false,
+  "InABattle": false,
+  "RequestedSomeone": false,
+  "RequestedTime": "2019-06-17T16:22:18.5543966+08:00"
+ },
+ {
+  "UserID": "483067956293664768",
+  "Username": "Gao",
+  "RequesterName": "",
+  "RequesterID": "",
+  "RequestedName": "",
+  "RequestedID": "",
+  "RequestedForBattle": false,
+  "InABattle": false,
+  "RequestedSomeone": false,
+  "RequestedTime": "2019-06-17T16:31:58.10843+08:00"
+ }
+]
